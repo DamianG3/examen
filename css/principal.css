@@ -18,3 +18,14 @@ main{
 #temario{
     background-color: plum;
 }
+
+#disclaimer{
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+#icono{
+    color: orange;
+    padding: 5px;
+}
